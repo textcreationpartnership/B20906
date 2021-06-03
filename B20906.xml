@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cruelty of some fighting priests published, that people may no longer be deceived by them, nor count them ministers of the gospel of Christ, who in stead of turning their cheeks to the smiter, are themselves turned smiters and fighters, and smite with the fist of wickedness, and have beat, puncht &amp; struck knockt down and puld by the hair of the head, &amp; have set their hearers on to beat &amp; knock down the people of God, whom they in scorn call Quakers, some for asking the priest a sober question in the old masse-house, others in the high-wayes.</title>
+         </titleStmt>
+         <extent>Approx. 31KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20906</idno><idno type="EEBO-CITATION">99888333</idno>
+  <idno type="VID">193534</idno>
+  <idno type="EEBO-PROQUEST">2240900116</idno>
+  
+            <idno type="STC">Wing C7422A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 855.f.3[40]</idno>
+            <idno type="STC">ESTC R229341</idno>
+            <idno type="PROQUEST">ocm99888333</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888333e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20906)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193534)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B9:1([44])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cruelty of some fighting priests published, that people may no longer be deceived by them, nor count them ministers of the gospel of Christ, who in stead of turning their cheeks to the smiter, are themselves turned smiters and fighters, and smite with the fist of wickedness, and have beat, puncht &amp; struck knockt down and puld by the hair of the head, &amp; have set their hearers on to beat &amp; knock down the people of God, whom they in scorn call Quakers, some for asking the priest a sober question in the old masse-house, others in the high-wayes.</title>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Simmons at the signe of the Bull and Mouth near Aldersgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Persecution --  Early works to 1800.</term>
+               <term type="topical_term">Quakers --  Persecutions --  England --  Early works to 1800.</term>
+               <term type="topical_term">Priesthood --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:193534:1"/>
+            <p>THE CRUELTY OF SOME Fighting Priests PUBLISHED, That people may no longer be deceived by them, nor count them Ministers of the Gospel of Christ, who in stead of turning their cheeks to the smiter, are them<g ref="char:EOLhyphen"/>selves turned smiters and fighters, and smite with the fist of wickedness, and have beat, puncht &amp; struck knockt down and puld by the hair of the head, &amp; have set their hearers on to beat &amp; knock down the People of God, whom they in scorn call Quakers, some for asking the Priest a sober question in the Old Masse-house, others in the High-wayes.</p>
+            <q>
+               <p>And so are them that bare <hi>Cains</hi> and <hi>Baalams</hi> marks up<g ref="char:EOLhyphen"/>on them, and wo is unto them that go in the way of <hi>Cain</hi> in Envy and wrath, and after the Errour of <hi>Baalam</hi> greedily for reward. <bibl>
+                     <hi>Jude. 11.</hi>
+                  </bibl>
+               </p>
+               <p>By their fruits you shall know them, <bibl>
+                     <hi>Mat. 7.20.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the signe of the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Aldersgate,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:193534:2"/>
+            <pb n="3" facs="tcp:193534:2"/>
+            <head>NORFOLK.</head>
+            <p>PRiest <hi>Rayner</hi> of <hi>Rowlesby</hi> in the County aforesaid was sporting himself at a filthy ungodly meet<g ref="char:EOLhyphen"/>ing, where they had a fidler amongst them; at the latter end of their sport, they had a daun<g ref="char:EOLhyphen"/>cing which they call the Cushion daunce, (and in stead of reproving them for their wickednesse) both this Priest and his wife, was brought in and joyned with them in that filthy action in kneeling upon the Cushens and kissing, which Priest, when one <hi>Joseph Fuce</hi> one that fears the Lord, went unto his house to reason with him about the things of God, he presently thrust him out of the doors.</p>
+            <p>
+               <hi>Jonathan Clapham</hi> Priest of <hi>Wramplingham</hi> in the Coun<g ref="char:EOLhyphen"/>ty aforesaid, did use violence to <hi>Elizabeth Court</hi> (who went peaceably to his house to speak to him) and run her down in a Nettle-bush.</p>
+            <p>And the said Priest <hi>Clapham</hi> hath two several times set his Dog upon <hi>Thomas Briggs,</hi> and cryed, a low, a low.</p>
+            <p>
+               <hi>Jonathan Clapham</hi> Priest aforesaid, <hi>George Whitehead</hi> spoke a few words of truth to him, but the said <hi>Clapham</hi> would give no answer to what was said, but raged and called out his dog, and clapt his hands, and set his dog at the said <hi>George Whitehead</hi> for speaking the Truth to him, and this Priest is one appointed to try the other Priests.</p>
+         </div>
+         <div type="part">
+            <head>Northumberland.</head>
+            <p>At <hi>Elsdon</hi> in the Parish of <hi>Redsdale</hi> in that County there being a meeting of the people called <hi>Quakers,</hi> the Priest <hi>Jer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>miah Nelson</hi> came from the Steeple-house with a stone <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n his hand about two or three pound weight, which he desperately threw at one <hi>John Bowran;</hi> the same Priests wife also assisted the rude multitude in throwing stones at <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he People aforesaid, and hit one of them on the breast with a stone from her own hand, and the Priest invited <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he rude People to stone the <hi>Quakers,</hi> as he called them,
+<pb n="4" facs="tcp:193534:3"/> and I, said he, will bear you out in what you do, and fetcht scriptures to prove what he did was warrantable; and one of the Priests company took a toad and throw<g ref="char:EOLhyphen"/>ing it amongst the people, he said <hi>there is the spirit, take it amongst you.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>Darby-shire.</head>
+            <p>At <hi>Erkington</hi> in that County <hi>Samuel Gardner</hi> Priest thrust <hi>William Leigh</hi> of <hi>Beighton</hi> with both his hands, en<g ref="char:EOLhyphen"/>deavouring to throw him down, and some of the Priests people being present, they fell upon the said <hi>Will. Leigh,</hi> and tript up his heels, and this the Priest stirred them up to do; and when the Priest saw they obeyed his will, he left them beating the said <hi>William</hi> and went away; and this was done to the said <hi>William</hi> for declaring against the Priests Idolatry at the interring of a dead body into the ground.</p>
+            <p>
+               <hi>Richard Bridges</hi> Priest in <hi>Peak Forest</hi> in the County a<g ref="char:EOLhyphen"/>foresaid, violently threw the Wife of <hi>John Rigway</hi> against a stone wall, that she could not rise for a space, and was like to faint and sound-away, and this was done because the woman watered her Beasts where the Priest would not have had her, and he pounded her Beasts besides; And the Reader may take notice, that the next first day the said Priest could not preach for vomiting (being given to drunkennesse) as his own hearers reported, and the same Priest <hi>Bridges</hi> did beat another friend upon the face, as he was passing on the way, who gave him no occasion.</p>
+         </div>
+         <div type="part">
+            <head>Cumberland.</head>
+            <p>Priest <hi>Lingard</hi> in that County, overtaking one <hi>Matthew Robinson</hi> as he was peaceably passing from Market, the said Priest would not suffer him to go on the Way, but abused him, and endeavoured to ride over the said <hi>Matthew Ro<g ref="char:EOLhyphen"/>binson,</hi> and when he was reproved for his wickednesse, and told the way was open, he said he would ride where he would, and the Priests Companion took the said <hi>Robin<g ref="char:EOLhyphen"/>sons</hi> hat from him and cast it away, and one brought it to him and he received it again, and the second time the Priest stirred up his Companion to take it away again, who did so, and hath not returned it again.</p>
+            <pb n="5" facs="tcp:193534:3"/>
+            <p>
+               <hi>Ja. Lancaster</hi> of <hi>Senbyes</hi> Steeple-house, was abused, ston<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; persecuted by the Priest and people there, they were <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> violent against him, that they blouded him with stones <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their hands (which they struck with) and hailed him <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto a Bridge, with his head under their legs (or feet) <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>long while together, and the women pulled off the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir of his head, and said hang him, kill him, he is not <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orthy to live, the Priest and the people said so, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen threw him over the Bridge into the River, and rent <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is coat, and threw the pieces after him, and his Hat al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and for all this the said <hi>James Lancaster</hi> spoke not a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord, until they violently hailed him away, which they <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id according to the command of the Priest, who said, <hi>If <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u will not take him away, I will read no longer.</hi>
+            </p>
+            <p>
+               <hi>Lanc. Fletcher</hi> Priest of <hi>Dean</hi> in that County, bad the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eople <hi>Fight for the the Gospel,</hi> and caused <hi>Thomas Stubs</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be extreamly beaten.</p>
+         </div>
+         <div type="part">
+            <head>Stafford-shire.</head>
+            <p>
+               <hi>Edward Worly</hi> Priest of <hi>Eagles-Hall</hi> in that County, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unched with his hand <hi>Hump. Wolrich,</hi> and encouraged <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he people to stone him in the <hi>Grave-yard.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>Suffolk.</head>
+            <p>
+               <hi>Edward Willan</hi> Priest of <hi>Hoxan</hi> assaulted <hi>George White<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ead,</hi> and took his Horse by the Bridle, and threatned <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o pull him off his Horse, onely because the said <hi>George Whitehead</hi> exhorted the Priest to fear God and cease <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom iniquity.</p>
+         </div>
+         <div type="part">
+            <head>Essex.</head>
+            <p>
+               <hi>Thomas Tillam</hi> a Priest in <hi>Colchester</hi> came forth of his place, and laid violent hands on the said <hi>George Whitehead,</hi> and helped to hail him out of the Steeple-house, only for speaking the truth to the people there.</p>
+            <p>
+               <hi>William Skingly</hi> Priest violently beat <hi>John Child</hi> at <hi>Steb<g ref="char:EOLhyphen"/>bin</hi> in the Steeple-house, on a Lecture day, and set the rude people on him in the <hi>Grave-yard.</hi>
+            </p>
+            <p>Priest <hi>Skingly</hi> aforesaid on a Lecture day in <hi>Felstead,</hi> did <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ick <hi>Ann Child</hi> on her leg so violently, that it was black for many weeks after.</p>
+            <pb n="6" facs="tcp:193534:4"/>
+            <p>Priest <hi>Perkins</hi> of <hi>Thacksteed</hi> did sorely beat <hi>Thomas Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>en</hi> with a cane (when he was at labour in the fields, in h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Masters work) insomuch that his body was sore for seve<g ref="char:EOLunhyphen"/>rall dayes after.</p>
+         </div>
+         <div type="part">
+            <head>Cambridge.</head>
+            <p>
+               <hi>William Hunt</hi> Priest of <hi>Sutton,</hi> struck <hi>William Salmon</hi> i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the street so violently three times, that <hi>William</hi> cou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> scarce stand on his feet, and the Priest took his hat, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> threw it away.</p>
+            <p>Also the said Priest beat <hi>Daniel Gray</hi> an Aprentice i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Masters house, and a friend of the said <hi>Daniel</hi> re<g ref="char:EOLhyphen"/>proving the Priest for it, he called her beastly whore.</p>
+            <p>And the Priest did also beat <hi>Robert Gray,</hi> meeting hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the street.</p>
+         </div>
+         <div type="part">
+            <head>Sussex.</head>
+            <p>The Priest of <hi>Hust</hi> Steeplehouse struck <hi>Mary Dobson</hi> on the breast, and called her plaguey Quean, Jade, and Hussy, which he did because the said <hi>Mary Dobson</hi> bid him prove those aspertions which he had cast upon the truth, and likewise the said Priest swore falsly against anothe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> woman one <hi>Jane Eager,</hi> and caused her to be brought t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Sessions, for disturbing him in the Steeplehouse, when as she had not been at the Steeple-house at all.</p>
+            <p>
+               <hi>Charles Blackwel</hi> Priest of <hi>Stenning,</hi> thrust <hi>William Geering</hi> and <hi>Richard Newman</hi> with violence from him, who came soberly unto him, to deliver answers to some queries the said priest had sent, and the said Priest threatened to lay the said <hi>Richard Newman</hi> at his feet, and called for a stick to beat him.</p>
+            <p>
+               <hi>Robert Baker</hi> Priest being asked by <hi>Thomas Mantells</hi> sheep<g ref="char:EOLhyphen"/>herd, a poor man, what he should give him for the Tithe of his two Lambs, but the Priest not agreeing with him for it, he did strike the poor man diverse times about the shoulders, head, neck and face, in so much that he fetch<g ref="char:EOLhyphen"/>ed blood, and brake his stick, and his envie was so great that he wished he had a bigger.</p>
+            <p>One <hi>John Tedcraft</hi> a Priest of <hi>Fetfam</hi> in <hi>Sussex</hi> took hold of <hi>Joseph Fuce</hi> by his coller neer his throat, and lift up
+<pb n="7" facs="tcp:193534:4"/> his other hand to strike; but <hi>John Downer</hi> one of the Priests <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arers, took hold of the Priest and pulled him off from <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>seph,</hi> and kept him off by force, untill his wrath was a <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e brought down.</p>
+            <p>One <hi>Baytree</hi> a Priest in <hi>Givenigton</hi> came with a staffe with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Iron pike on the end of it, and said he would knock <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn <hi>Joseph F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce,</hi> and lifted it up with both his hands, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t another Priest laid hold of it and stopped him; then <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iest <hi>Baytree</hi> sought to run the pike in <hi>Josephs</hi> face, but <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e other Priest strove with him and so kept him off.</p>
+            <p>
+               <hi>Adam Co<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>m</hi> Priest in that County, came down out of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s pulpit in great fury to <hi>Margery Calstock,</hi> (for speaking <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him) and tore off her handkerchief from her neck and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rew it away, then she asked him whether the Ministers <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Christ ever dealt thus with People, then he punched <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r on the brest, and beat her back against the seates; and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> she was passing away, she spake something to the people, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Priest came to her again, and put his hand to her <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roat and tore her dressing, and his violence was so great, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at one of his hearers was fain to pull him or shove him <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay, least he should have done her more hurt.</p>
+            <p>Priest <hi>Rowland</hi> of <hi>Areloch</hi> beat <hi>Robert Cooper,</hi> because he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould no speak to him.</p>
+         </div>
+         <div type="part">
+            <head>Warwick Sheir.</head>
+            <p>
+               <hi>Thomas Deager</hi> Priest of <hi>Burford</hi> struck <hi>William Cockbill</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en he was shearing of a sheep, for crossing his will <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>out Tithe.</p>
+         </div>
+         <div type="part">
+            <head>Nottingham-Shire.</head>
+            <p>
+               <hi>William Saxon</hi> Priest wrung <hi>Samuell Nicholson</hi> by the nose <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r speaking to the People neer the Steeplehouse door in <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rworth.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>Hereford-Shire.</head>
+            <p>Priest <hi>Clogey</hi> of <hi>Wigmore</hi> struck <hi>John Moon</hi> upon the face, the said <hi>John Moon</hi> was going from a meeting.</p>
+            <p>Priest <hi>Dillow</hi> of <hi>Lingen</hi> did smite <hi>Salomon Smith</hi> on the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, with his fist, in so much that his eye swelled very <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch.</p>
+         </div>
+         <div type="part">
+            <pb n="8" facs="tcp:193534:5"/>
+            <head>Dorcet-Sheir.</head>
+            <p>Priest <hi>Hodder</hi> in that <hi>County</hi> did beat <hi>Samuel Curtis,</hi> he was riding on the high way.</p>
+         </div>
+         <div type="part">
+            <head>Summerset-Shire.</head>
+            <p>Priest <hi>Hayard</hi> of <hi>Bristoll</hi> took <hi>John Evens</hi> by the thr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as he was declaring the truth in the Market.</p>
+            <p>
+               <hi>Edward Lowell</hi> Priest of <hi>Shapwick</hi> and <hi>Ashcot</hi> being a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> grave speaking, <hi>William Stone</hi> asked him a sober questio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (who hath required this at thy hands,) and further sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> let him that nameth the Name of God depart from i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>quity, whereupon the Priest called to one of his hear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to put the said <hi>William</hi> out of the Church-yard (as he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>led it,) but the man refusing to do it, he called to one the Officers to do it, but he denyed to do it, then s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Priest, I must do it my self, and came to <hi>William</hi> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> struck him with his fist, and elbow and Book ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> blowes, with such violence that he had almost struck t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> breath out of his body.</p>
+         </div>
+         <div type="part">
+            <head>Lanca Shire.</head>
+            <p>
+               <hi>Ger. Shaw</hi> Priest, <hi>Thomas Shawes</hi> son Priest of <hi>Aldi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ham,</hi> came to a kiln very drunk (where <hi>Edmon Cleaton</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his man was drying oates) and <hi>Edmond Cleaton</hi> sitting <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on a sack which had turfe in it, the Priest sits down <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him and sets his shoulder to him, and josselled the said <hi>E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>mond</hi> from one end to the other, and shortly after th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Priest took away one of his fathers horses, and rode awa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and was never seen in that <hi>County</hi> since.</p>
+            <p>The Priest of <hi>Winwick</hi> two miles from <hi>Warrington</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> violent hands on <hi>Thomas Holme,</hi> abusing him and haili<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him to the stocks, who commanded the constable to p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him in, where <hi>Thomas Holme</hi> remained about an hour, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> speaking a few words to the said Priest in the high way <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he was passing from the Steeple-house.</p>
+            <p>Priest <hi>Shaw</hi> of <hi>Aldingham</hi> struck <hi>Ann Claton.</hi>
+            </p>
+            <p>Priest <hi>Willon</hi> of <hi>Kirby</hi> struck <hi>Luke Benson</hi> till he broke great Cane.</p>
+            <p>Priest <hi>Bennet</hi> of <hi>Cartmell,</hi> came out of an Alehouse b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing in drink, beat <hi>Richard Roper,</hi> and boasted that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beat him and struck up his heels.</p>
+            <pb n="9" facs="tcp:193534:5"/>
+            <p>Priest <hi>Brook</hi> of <hi>Cartmell-Fell</hi> came drunk into the house where <hi>Thomas Robinson</hi> dwelt, and beat him violently, and would have cast him into the fire.</p>
+         </div>
+         <div type="part">
+            <head>Glocester-Sheir.</head>
+            <p>
+               <hi>Henry Dunnery</hi> Priest in <hi>Aust,</hi> did beat <hi>William Edward</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery sore, for exhorting him to fear the Lord.</p>
+            <p>
+               <hi>Stephen Chamberlain</hi> Priest, smote <hi>Jenkin Hopkin</hi> on the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace, for declaring against the said Priests pride, and of his Wives pride.</p>
+            <p>
+               <hi>Hopewell Fox</hi> Priest, with violence threw <hi>Joane Hibbs</hi> down to the ground, and afterwards came with a staffe <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n his hand to beat her, but one of his hearers kept him off, and said she was a woman, and he should not beat her.</p>
+            <p>The same <hi>Hopwell Fox,</hi> being asked (by one <hi>Stephen Hu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ersty</hi>) whether he was a Minister of Christ, the said Priest <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid he scorned to answer such a rogue as he was, and the Priest fell upon the said <hi>Stephen,</hi> and thrust him out of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Steeple-house, and threw him down on the ground.</p>
+            <p>The Priest of <hi>Lidney</hi> in the <hi>County</hi> aforesaid laid violent hands on <hi>William Hibbs,</hi> for asking the said Priest a sober question, and the Priest thrust him into a pool of water and dirt, and when he came out of the pool, the Priest took the hat from off <hi>William Hibbs</hi> head and threw it into the pool, and the said Priest did kick the said <hi>William</hi> with much fury on the belly when he was coming forth of the pool.</p>
+            <p>The said <hi>Hopewell Fox</hi> did strike (<hi>Mary Plant</hi> of <hi>Lidney,</hi> for speaking to him in the Steeple-house) three blowes with his cane, so that she was not able to lift up her arms to her head a great while after, and his rage was so great, that his hearers were fain to hold him from her, least he should do her more mischief.</p>
+         </div>
+         <div type="part">
+            <head>Durham.</head>
+            <p>
+               <hi>Samuel Feak</hi> Priest of <hi>Stainthorp,</hi> assaulted <hi>John Banks,</hi> took the said <hi>Banks</hi> hat, and threw it away, who did not medle with him by word or action, and the Priest said to the said <hi>Banks,</hi> but for the outward law he would make him an example, also the said <hi>Feak</hi> beat <hi>Christopher Jones.</hi>
+            </p>
+            <pb n="10" facs="tcp:193534:6"/>
+            <p>The said Priest <hi>Feak</hi> meeting one <hi>Christopher Eyon,</hi> wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was going peaceably through <hi>Stainthorp</hi> grave-yard, t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Priest said unto him, Sirrah, where have you been, <hi>Chri<g ref="char:EOLhyphen"/>stopher</hi> not answering him according to his desire, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Priest said what are you dumb, and struck him vehement<g ref="char:EOLhyphen"/>ly on the head, the said <hi>Christopher</hi> being still silent, and go<g ref="char:EOLhyphen"/>ing about thirty yards further, the Priest followed him, and threatened him, saying, he would make him speak, and violently smote him again, so that he almost feld him to the ground, and when the said <hi>Christopher</hi> recovered, he looked the Priest in the face, and the said Priest having a rapier in a staffe in his hand, he looked with a stem countenance, and began to draw his rapier, and said i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it were not for a little he would (which may be supposed) have killed him, and a woman was heard say unto him, good Master <hi>Feak</hi> be perswaded; and in all this the said <hi>Christopher Eyon</hi> opened not his mouth, as to give the Priest any occasion of offence, as many of the Priests hear<g ref="char:EOLhyphen"/>ers can witness if thereunto called.</p>
+            <p>The said Priest <hi>Feak</hi> beat <hi>Thomas Taylor, Christopher Atkinson</hi> and <hi>Thomas Avery,</hi> as they were passing on the high way, the said Priest <hi>Feak</hi> beat <hi>Christopher Atkinson</hi> an<g ref="char:EOLhyphen"/>other time, and trailed him at his horse side by the haire of the head by the high way, and the Priests wife riding behind him punched <hi>Christopher</hi> on the face.</p>
+         </div>
+         <div type="part">
+            <head>Yorke-Shire.</head>
+            <p>
+               <hi>Anthony Collison</hi> Priest fell violently upon <hi>Thomas Pinder,</hi> and pusht him and threw him against the stales or seats in the Steeple-house, and the Priest and his hearers put the said <hi>Thomas Pinder</hi> by force out of the Steeple-house.</p>
+            <p>Priest <hi>Threlcot</hi> did smite <hi>John Bowran</hi> in the face in the Chapell so called, in <hi>Stratford.</hi>
+            </p>
+            <p>
+               <hi>Thomas Rooksby</hi> Priest, took <hi>Thomas Aldam</hi> fast by the collor of his doublet, and the hair of his head, and hoot<g ref="char:EOLhyphen"/>ed, crying in the eare of <hi>Thomas Aldam,</hi> get a horn, get a horn <hi>Tom</hi> a <hi>Bedlam,</hi> and blow up and down the Town, and this Priest went to an Alehouse, and then set one fist upon another, and blew upon his fists, and cried, get a
+<pb n="11" facs="tcp:193534:6"/> horn, get a horn, and blow up and down the Town, and hath called <hi>Thomas Aldam</hi> mad dog, and this priest did cast <hi>Thomas Aldam</hi> into prison, and kept him there two years and seven moneths, and spoiled his goods twice, be<g ref="char:EOLhyphen"/>cause <hi>Thomas Aldam</hi> could not pay him Tythes.</p>
+            <p>
+               <hi>Richard Bubthorp</hi> priest of <hi>Hubrum</hi> assaulted <hi>James Ten<g ref="char:EOLhyphen"/>nant</hi> as he was coming from a meeting, and beat him ve<g ref="char:EOLhyphen"/>ry violently, and beat his man, and called <hi>James</hi>'s servant maid whore.</p>
+            <p>
+               <hi>Christopher Place</hi> priest at <hi>Chapham,</hi> threw <hi>Thomas Lawson</hi> over the stales or seats, and the priests hearers did beat the said <hi>Thomas</hi> about the head with their Bibles.</p>
+            <p>A priest of <hi>Fowston</hi> in the County aforesaid, did beat <hi>Christopher Chapman</hi> about the head with his fists from the upper end of the Steeple-house out of the great doors, calling him Rogue, or such like railing words, for deli<g ref="char:EOLhyphen"/>vering him a paper.</p>
+            <p>
+               <hi>Tempis I<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>gworth</hi> priest of <hi>Normton,</hi> did beat <hi>William Pearson</hi> with his rod, and punched him on the mouth, as the said <hi>William</hi> was passing on the high way.</p>
+            <p>
+               <hi>Tempis Ilingworth</hi> aforesaid, and one <hi>Robert Wood</hi> meet<g ref="char:EOLhyphen"/>ing with <hi>James Grave</hi> on the high way neer <hi>Wesby</hi> Chappel (so called) the priest took a staffe out of <hi>Robert Woods</hi> hand, and beat the said <hi>James Grave</hi> sorely, and caused the said <hi>Wood</hi> to beat him also.</p>
+            <p>
+               <hi>John Hodgson</hi> was struck by the priest of <hi>Wakefield.</hi>
+            </p>
+            <p>Priest <hi>Rocksby</hi> of <hi>Warmsworth</hi> punched, shoved and pluckt <hi>George Fox,</hi> who came into the Steeple-house, and the priest asked <hi>George Fox</hi> what he came there for, but he answered not, then the priest asked him again what he came there for, and left his work that was in hand, and <hi>George Fox</hi> said nothing; come come saith the priest, and named the seventh of <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tthew,</hi> False prophets shall come in the last times <hi>&amp;c.</hi> And so was turning to read his Chapter, and then asked <hi>George Fox</hi> what he came thither for again, and <hi>George Fox</hi> said, a question was askt, a que<g ref="char:EOLhyphen"/>stion might be answered, and then with violence they hailed him out, and struck him with a crab-tree stick.</p>
+            <pb n="12" facs="tcp:193534:7"/>
+            <p>Priest <hi>Dorton</hi> of <hi>Shape</hi> being drunk, drew his Tuck at <hi>Daniel Thompson</hi> in the street, as the said <hi>Daniel</hi> passed; the same Priest beat <hi>William</hi> and <hi>Richard Stray,</hi> puld them by the hair, and lug'd him by the ears, and came to <hi>Willi<g ref="char:EOLhyphen"/>am Strays</hi> house, with his Tuck to seek him, and threat<g ref="char:EOLhyphen"/>ned his wife therewith.</p>
+            <p>Priest <hi>Bradsham</hi> meeting <hi>Henry Wood</hi> of <hi>Bury,</hi> as he was riding to <hi>Manchester</hi> Market, the Priest rode up to him, and called him Knave, and took away his Hat.</p>
+            <p>
+               <hi>T. Tilsly</hi> Priest, abused the said <hi>Henry Wood,</hi> and pul'd the Hair off his Face.</p>
+            <p>
+               <hi>Tho. Shaw</hi> Priest of <hi>Aldingham,</hi> beat <hi>James Lancaster</hi> for, speaking to him in private, the said Priest also, beat <hi>Miles Halehead,</hi> and shed his blood.</p>
+         </div>
+         <div type="part">
+            <head>Cheshire.</head>
+            <p>Priest <hi>Bradshaw</hi> of <hi>Mans-field</hi> laid violent hands on <hi>John Sheeld,</hi> and pul'd off his hat, and hailed the said <hi>John Sheeld,</hi> and called for help.</p>
+            <p>
+               <hi>Adam Martendale</hi> laid violent hands upon <hi>Thomas Holm,</hi> and pul'd the said <hi>Thomas,</hi> and shaked him by the shoul<g ref="char:EOLhyphen"/>ders and arms, and threatned to have the said <hi>Tho. Holm</hi> before the Magistrates, and this priest and <hi>Samuel Elcock,</hi> another priest in that County pursued the said <hi>Tho. Holm</hi> several miles, and commanded the people in <hi>Moberly,</hi> in the High-wayes to aid and assist them, and raised up a shout like a hue-and-cry which disturbed the Countrey, who rose with clubs and staves to take hold of him who had wronged no man.</p>
+            <p>
+               <hi>Saboth Clerk</hi> Priest, struck <hi>Thomas Hill</hi> many great blows with a Cane, in the High-way.</p>
+         </div>
+         <div type="part">
+            <head>Worcester-shire.</head>
+            <p>Priest <hi>Barret</hi> struck <hi>John Ayms</hi> of <hi>Bengworth.</hi>
+            </p>
+            <p>Priest <hi>Beeston</hi> of <hi>Breedon,</hi> struck <hi>T. Goodyair</hi> in <hi>Worcester.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>Westmerland.</head>
+            <p>Priest <hi>Walker</hi> late of <hi>Kendal,</hi> smote <hi>Thomas Holm</hi> on the breast, &amp; thrust him against a form in <hi>Kendal</hi> Steple-house.</p>
+         </div>
+         <div type="part">
+            <head>Northampton.</head>
+            <p>Priest <hi>Byfield,</hi> shoved <hi>John Whitehead</hi> out of the Stee<g ref="char:EOLhyphen"/>ple<g ref="char:EOLhyphen"/>house
+<pb n="13" facs="tcp:193534:7"/> of <hi>Willingbrough,</hi> for asking the Priest a question <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter the Priest had done.</p>
+            <p>
+               <hi>Lewis Floid</hi> Priest of <hi>Ottringham,</hi> tore <hi>William Dewsburys</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>air off his head, and struck the said <hi>William</hi> as they passed, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eer <hi>Ottringham.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>Middlesex <hi>and</hi> London.</head>
+            <p>
+               <hi>Thomas Godbert</hi> Priest of <hi>Ʋxbridge,</hi> laid violent hands on <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn Sands</hi> two several times, and he was cruelly kickt <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd beat by the priests hearers.</p>
+            <p>
+               <hi>Matthew Griffith</hi> priest, called <hi>Robert Ingram</hi> Rascally <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ogue, and said, he <hi>would crack his crown,</hi> and so the priest <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave him several blows with a Cane on his head and bo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, and this he did, because the said <hi>Robert</hi> said to him, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his is the priest that run away when he was asked a que<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion.</p>
+         </div>
+         <div type="part">
+            <head>Pembrok-shire in Wales.</head>
+            <p>
+               <hi>Adam Hawkins</hi> Priest, struck <hi>John Ap-John</hi> in the house <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <hi>William Bateman.</hi>
+            </p>
+            <p>
+               <hi>Steven Hughes</hi> priest in <hi>Carmarthan,</hi> struck <hi>Evan John</hi> of <hi>Landeny, Thomas</hi> and <hi>George Howel</hi> being there present.</p>
+            <p>Priest <hi>Thomas</hi> of <hi>Lysafrane,</hi> laid violent hands on <hi>Hum<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bery Williams</hi> of the Town of <hi>Haverfordwest.</hi>
+            </p>
+            <p>
+               <hi>Thomas Freeman</hi> Priest of the parish of <hi>Stampton,</hi> laid vi<g ref="char:EOLhyphen"/>olent hands on <hi>Humphery VVilliams,</hi> and said, <hi>sirrah, had <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot Paul said that a Minister should not be a striker, I would <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake thee and knock thee soundly.</hi>
+            </p>
+            <p>
+               <hi>David VVilliams</hi> priest, struck <hi>James Lewis</hi> in the pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence of <hi>John Thomas</hi> and many other people.</p>
+         </div>
+         <div type="part">
+            <head>Monmouth-shire.</head>
+            <p>
+               <hi>John Howel</hi> priest, struck <hi>Thomas Holm</hi> twice over the head with his horse rod.</p>
+            <p>
+               <hi>VValter Craddock</hi> chief priest in <hi>Monmouth-shire,</hi> meeting with <hi>Alice Berk<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</hi> laid violent hands on her, and pul'd her to the ground, and said to her, <hi>get thou behind me</hi> Satan.</p>
+         </div>
+         <div type="part">
+            <head>Glamorgan-shire.</head>
+            <p>
+               <hi>Joshuah Miller</hi> priest, hath been taken in many lies by <hi>Francis Gawler</hi> of <hi>Cardiff,</hi> who reproved him for it, but
+<pb n="14" facs="tcp:193534:8"/> the priest pleaded, lying was no sin but a change of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mind, and this may be witnessed against him, and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> same priest laid both his hands on his Cane and struck <hi>Francis Gawler,</hi> and the priests wife at another time struck the said <hi>Francis;</hi> and at another time the priests wife hailed <hi>Tobiah Hodg</hi> of <hi>Cardiff</hi> by the hair of the head, and with the help of her husband the priest turned him out of doors.</p>
+            <p>
+               <hi>John Howel</hi> aforesaid, struck <hi>Thomas Holm</hi> as he was pas<g ref="char:EOLhyphen"/>sing the road in <hi>Monmouth-shire.</hi>
+            </p>
+            <p>Priest <hi>Jenkins</hi> with four men, to whom he gave bond to save them harmeless for whatsoever they did, which men, by a false warrant seized on, and drove away an hundred sheep and other cattel from Captain <hi>John Elliot,</hi> and his shepherds wife owning one sheep and desiring to have it, one of this priests men knockt her down, and broke her head in two places, and for some time she lay for dead, continuing deaf until this day, the said Captain <hi>Elli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> wife being there; also the priest bid one of his men knock her down and kill her and he would bear him out, at which one of the them struck her on the breast with a great staffe, which blow caused her milk to putrifie, she having a young child which sucked her, which child took a vomiting by sucking the putrified milk and dyed.</p>
+            <p>Priest <hi>Confit</hi> of <hi>Barton,</hi> beat <hi>Dor. Tod</hi> for coming to visit his wife.</p>
+            <p>Priest of <hi>Hebrun</hi> struck <hi>Iohn Hey</hi> several times on the breast.</p>
+            <p>Priest <hi>Ripling</hi> of <hi>Crosby</hi> came riding into the meeting where the people of God were met, and rid through them with violence.</p>
+            <p>Priest <hi>Nicholls</hi> of <hi>Acton</hi> beat <hi>Iames Parnel,</hi> and broke his head against a Stall.</p>
+            <p>Priest <hi>Warwick</hi> of <hi>Aspeater</hi> beat <hi>Iohn Grean</hi> and his wife, and shed the blood of <hi>Ionah Pearson.</hi>
+            </p>
+            <p>Priest <hi>Burton</hi> of <hi>Sedburgs</hi> beat <hi>Iohn Blackling</hi> and puld him by the hair of the head in his Steeple-house; he also beat <hi>Richard Speight</hi> and <hi>Iohn Hall</hi> (as is said) at <hi>Hup<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> Chappel.</p>
+            <pb n="15" facs="tcp:193534:8"/>
+            <p>Priest <hi>Cowleden</hi> of <hi>Langsterdale,</hi> beat <hi>Edward Edwards,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d shed his blood upon the High-way; also he beat <hi>Iames <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nart.</hi>
+            </p>
+            <p>Priest <hi>Atkinson</hi> of <hi>Granton,</hi> beat <hi>Barnard Adison</hi> in the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igh-way, and broke his staffe over his face.</p>
+            <p>Priest of <hi>Marrick,</hi> beat <hi>Christopher More;</hi> and also he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at <hi>Joseph Longsdale</hi> in <hi>Richmond</hi> Market for reproving <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m for it.</p>
+            <p>Priest <hi>Moor</hi> of <hi>Richmond</hi> beat <hi>Christopher Moor</hi> with a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayl, insomuch that he had like to have kil'd him if help <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d not come.</p>
+            <p>
+               <hi>Matthew Buker</hi> priest, struck <hi>F. Ellington.</hi>
+            </p>
+            <p>Priest <hi>Fortrey</hi> beat <hi>Robert Chintin</hi> with his staffe as he was <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing to a meeting, insomuch that his arm was lame a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oneth or more after.</p>
+            <p>The priest of <hi>Causham</hi> struck and abused <hi>Thomas Curtis,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the said <hi>Thomas Curtis</hi> was sorely pul'd by the hair of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e head, by priest <hi>Webs</hi> adherents, for asking the priest question.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
